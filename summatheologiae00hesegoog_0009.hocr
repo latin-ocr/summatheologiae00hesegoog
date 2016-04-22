@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./summatheologiae00hesegoog_0009.png"; bbox 0 0 2298 3734; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 7 733 1041 1225">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 7 733 1041 1225">
+     <span class='ocr_line' id='line_1_1' title="bbox 34 733 594 810; baseline 0.093 -50"><span class='ocrx_word' id='word_1_1' title='bbox 34 757 35 760; x_wconf 74' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 508 733 594 810; x_wconf 74' lang='lat' dir='ltr'>AC</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 7 765 939 1051; baseline 0.05 -102"><span class='ocrx_word' id='word_1_3' title='bbox 7 765 939 1051; x_wconf 22' lang='lat' dir='ltr'>{xzpaeasrsszsstmo</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 8 1051 1041 1225; baseline 0.073 -94"><span class='ocrx_word' id='word_1_4' title='bbox 8 1171 11 1178; x_wconf 9' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 204 1051 863 1194; x_wconf 79' lang='lat' dir='ltr'>.DOM1NODOM1NO</span> <span class='ocrx_word' id='word_1_6' title='bbox 950 1221 952 1225; x_wconf 5' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1033 1187 1041 1206; x_wconf 80' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 7 1270 999 1998">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 7 1270 999 1998">
+     <span class='ocr_line' id='line_1_4' title="bbox 7 1270 999 1528; baseline 0.085 -100"><span class='ocrx_word' id='word_1_8' title='bbox 7 1270 999 1528; x_wconf 71' lang='lat' dir='ltr'>›ANTONIO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 93 1553 927 1778; baseline 0.08 -68.083"><span class='ocrx_word' id='word_1_9' title='bbox 93 1755 95 1762; x_wconf 5' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_10' title='bbox 159 1553 927 1778; x_wconf 73' lang='lat' dir='ltr'>MANGILIQ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 7 1823 997 1998; baseline 0.045 -47"><span class='ocrx_word' id='word_1_11' title='bbox 7 1823 727 1986; x_wconf 47' lang='lat' dir='ltr'>&#39;CONGREGAT</span> <span class='ocrx_word' id='word_1_12' title='bbox 731 1853 997 1998; x_wconf 80' lang='lat' dir='ltr'>10le</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 7 2021 852 2188">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 7 2021 852 2188">
+     <span class='ocr_line' id='line_1_7' title="bbox 7 2021 852 2188; baseline 0.069 -63"><span class='ocrx_word' id='word_1_13' title='bbox 7 2021 14 2080; x_wconf 57' lang='lat' dir='ltr'>f</span> <span class='ocrx_word' id='word_1_14' title='bbox 231 2035 852 2188; x_wconf 65' lang='lat' dir='ltr'><strong>LATERANENfflS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1154 3734">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1154 3734">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1154 3734; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1154 3734; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
